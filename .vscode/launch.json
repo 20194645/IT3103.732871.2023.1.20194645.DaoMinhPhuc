@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ex6_6",
+      "request": "launch",
+      "mainClass": "ex6_6",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "ex6_",
+      "request": "launch",
+      "mainClass": "ex6_",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "ex6_5",
+      "request": "launch",
+      "mainClass": "ex6_5",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "ex6_4",
+      "request": "launch",
+      "mainClass": "ex6_4",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
       "name": "App",
       "request": "launch",
       "mainClass": "App",
@@ -15,8 +43,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/admin/Downloads",
+      "program": "c:/Users/admin/Downloads/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
