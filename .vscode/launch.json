@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AimApp",
+      "request": "launch",
+      "mainClass": "AimApp",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Aim",
+      "request": "launch",
+      "mainClass": "Aim",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Jsoup",
+      "request": "launch",
+      "mainClass": "Jsoup",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "jsoup",
+      "request": "launch",
+      "mainClass": "jsoup",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "OpenSeaScraper",
+      "request": "launch",
+      "mainClass": "OpenSeaScraper",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "mainain",
+      "request": "launch",
+      "mainClass": "mainain",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "JsoupApp",
+      "request": "launch",
+      "mainClass": "JsoupApp",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "JsoupExample",
+      "request": "launch",
+      "mainClass": "com.example.JsoupExample",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "JsoupExample",
+      "request": "launch",
+      "mainClass": "JsoupExample",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
       "name": "ex6_6",
       "request": "launch",
       "mainClass": "ex6_6",

@@ -55,5 +55,16 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "java.project.sourcePaths": [
+    "project/src",
+    "lab01/src",
+    "demo/src/main/java/com/example",
+    "aim/src"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\admin\\Downloads\\jsoup-1.16.2.jar"
+  ]
 }

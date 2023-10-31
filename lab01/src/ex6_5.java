@@ -7,6 +7,7 @@ public class ex6_5 {
      Arrays.sort(x);
      int sum = 0;
      for(int a : x){
+        System.out.println(a);
         sum += a;
      }
      double ave = (double)sum / (double)x.length;
