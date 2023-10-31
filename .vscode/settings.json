@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",
@@ -68,3 +69,11 @@
     "c:\\Users\\admin\\Downloads\\jsoup-1.16.2.jar"
   ]
 }
+=======
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
+>>>>>>> origin/master
