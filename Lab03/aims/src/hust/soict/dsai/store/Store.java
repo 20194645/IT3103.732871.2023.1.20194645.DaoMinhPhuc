@@ -1,6 +1,6 @@
-package hust.soict.aims.store;
+package hust.soict.dsai.store;
 import java.util.ArrayList;
-import hust.soict.dsai.disc.*;;
+import hust.soict.dsai.disc.DigitalVideoDisc;
 public class Store {
 	
 	private int numOfCurrentDVD = 0 ;
