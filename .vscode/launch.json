@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Aimsapp",
+      "request": "launch",
+      "mainClass": "hust.soict.dsai.Aimsapp",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Aims",
+      "request": "launch",
+      "mainClass": "Aims",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Cart",
+      "request": "launch",
+      "mainClass": "aims.cart.Cart",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
+      "name": "Aimsapp",
+      "request": "launch",
+      "mainClass": "Aimsapp",
+      "projectName": "helloworld_142ab939"
+    },
+    {
+      "type": "java",
       "name": "AimApp",
       "request": "launch",
       "mainClass": "AimApp",
